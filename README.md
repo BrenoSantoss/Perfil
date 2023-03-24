@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Breno Santos, sou estudante de ciência da computação!  
 
 <div align="center">
-  <a href = "https://github.com/codebyarths">
+  <a href = "https://github.com/BrenoSantoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoSantoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyarths&layout=compact&langs_count=7&theme=dark"/>
     
