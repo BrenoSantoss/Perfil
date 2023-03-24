@@ -13,7 +13,7 @@
   <img align="center" alt="arths-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="arths-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="arths-pic" height="150" style="border-radius:50px;" 
-       src="https://c.tenor.com/M6ZYaFzOtj0AAAAC/sasuke.gif">
+       src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
   
   ##
